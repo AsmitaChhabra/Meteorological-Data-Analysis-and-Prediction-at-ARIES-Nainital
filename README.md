@@ -57,8 +57,7 @@ The internship focused on building a **web-based analytical platform** for explo
 ---
 
 ## Report
-The complete internship report is available here:  
-➡️ [Final Report PDF](./Asmita%20Chhabra_SIP%20FINAL%20REPORT.pdf)
+The complete internship report is available as Asmita Chhabra ARIES Project.pdf in the files
 
 ---
 
