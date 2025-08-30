@@ -1,10 +1,6 @@
 # Meteorological-Data-Analysis-and-Prediction-at-ARIES-Nainital
 A Streamlit-based interactive platform for meteorological data analysis and forecasting using AWS data from ARIES, Nainital. Includes data preprocessing, visualization, and ML models for rainfall & temperature prediction
 
-# Meteorological Data Analysis and Prediction at ARIES, Nainital
-
-[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-
 ## 📌 Overview
 This repository documents my **Summer Internship Project (SIP)** carried out at the **Aryabhatta Research Institute of Observational Sciences (ARIES), Nainital** under the mentorship of **Prof. Kaushik Gopalan (FLAME University)** and **Mr. Samaresh Bhattacharjee (ARIES)**.  
 
